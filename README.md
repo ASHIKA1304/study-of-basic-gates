@@ -82,7 +82,10 @@ endmodule
 
  Developed by:ASHIKA TR
  Register Number: 24900481
+ 
 **Logic symbol & Truthtable**
+
+
 ![WhatsApp Image 2024-11-12 at 14 18 16_8e4bc50e](https://github.com/user-attachments/assets/882dd749-f354-4c53-b3bd-6dac5667a73e)
 
 
@@ -96,5 +99,6 @@ endmodule
 
 
 **Result:**
+
 The truth table of logic gates in Quartus II using Verilog programming is verified.
 
